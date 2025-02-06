@@ -1,4 +1,5 @@
 Todos
+
 Displays your to-do tasklist for the day along with to-learn checklist everytime you are opening a new tab in Google Chrome
 
 Screenshot
@@ -7,6 +8,7 @@ Screenshot
 
 
 Installation
+
 Fork and clone this project to your local system
 Unzip the folder contents
 Open Google Chrome and go to Options menu on the right end (the three dots) and select More Tools > Extensions.
