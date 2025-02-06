@@ -2,6 +2,7 @@ Todos
 Displays your to-do tasklist for the day along with to-learn checklist everytime you are opening a new tab in Google Chrome
 
 Screenshot
+
 ![to-do](https://github.com/user-attachments/assets/a410839d-93a8-45dc-a7f3-2dbde4f16866)
 
 
